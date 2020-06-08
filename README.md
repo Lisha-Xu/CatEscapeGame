@@ -14,6 +14,6 @@ LocationType: include XCoordinate and YCoordinate. It can return the location.
 
 TrapType: If the cat was trapped, it cannot move one round. Trap is displayed as T.
 
-CatDogMouse: includes main function. Player can control cat to move. It will build the house, move dogs and mouses and show the results.
+CatDogMouse: includes main function. Player can control cat to move. It will build the house, move dogs and mouses and show the results. Cat can move two steps by using rash. However, it will consume one mouse.
 
 I use Java Swing to display the game.
